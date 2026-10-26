@@ -1,0 +1,7 @@
+Name,Company,Position,Email,Phone,Website,Personal LinkedIn,1st message sent date,Replied,Lead status
+Mara Jensen,Northwind Planning,CTO,mara@northwindplanning.example,+31 6 1234 5678,northwindplanning.example,https://www.linkedin.com/in/mara-jensen/,14.10.2026,yes,New
+Tom Okafor,Northwind Planning,Head of Operations,tom@northwindplanning.example,06 98765432,northwindplanning.example,linkedin.com/in/tomokafor,14.10.2026,no,New
+Lena Vogt,Brightline Care,Purchasing Manager,lena.vogt@gmail.com,+49 30 1234567,brightlinecare.example,https://linkedin.com/in/lenavogt,21.10.2072,no,New
+Ravi Mehta,Harbor Logistics,IT Director,ravi@harborlogistics.example,+44 20 7946 0000,brightlinecare.example,https://www.linkedin.com/in/ravimehta,21.10.2026,yes,Replied - interested
+Mara Jensen,Northwind Planning,CTO,m.jensen@northwindplanning.example,+31 6 1234 5678,northwindplanning.example,https://linkedin.com/in/mara-jensen,,no,New
+Eva Lind,Kestrel Health,COO,eva@kestrel,+46 8 123,kestrelhealth.example,https://linkedin.com/in/evalind,10/32/2026,no,New

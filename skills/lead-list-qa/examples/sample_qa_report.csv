@@ -1,0 +1,11 @@
+row,check,issue
+2,status,replied but lead status is still 'New'
+3,phone,no country code: 06 98765432
+4,email,free-mail address
+4,date,1st message sent date: in the future (21.10.2072)
+5,email,email domain harborlogistics.example ≠ website brightlinecare.example
+5,website,same website as row above but different company (Brightline Care)
+6,duplicate,same LinkedIn as row 2
+7,email,invalid format: eva@kestrel
+7,phone,unlikely length: +46 8 123
+7,date,1st message sent date: unreadable '10/32/2026'
